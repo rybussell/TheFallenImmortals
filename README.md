@@ -1,7 +1,7 @@
-##Update Jan 18, 2019
+<b><font size=18>Update Jan 18, 2019</font></b><br /><br />
 
-The Good News: I've officially updated the game to work with PHP 7. I am able to log into the system, view popups, etc. <br />
-The Bad News: There is a LOT of work to do. It's ugly, many things aren't working AT all. The database needs some serious reconfiguring. As someone that was not involved with this game initially, it's a LOT of reading through code and trying to figure out what the original author was trying to do and making it work properly with the new PHP/MySQL releases.
+<b>The Good News:</b> I've officially updated the game to work with PHP 7. I am able to log into the system, view popups, etc. <br />
+<b>The Bad News:</b> There is a LOT of work to do. This is not unexpected. It's ugly, many things aren't working AT all. The database needs some serious reconfiguring. As someone that was not involved with this game initially, it's a LOT of reading through code and trying to figure out what the original author was trying to do and making it work properly with the new PHP/MySQL releases.
 
 I don't plan to release the updates to get it working on PHP 7 yet, but if you're interested in maybe getting this game back functional, please reach out to me and let's see what we can figure out!
 
