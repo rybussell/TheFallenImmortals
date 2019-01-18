@@ -1,3 +1,12 @@
+##Update Jan 18, 2019
+
+The Good News: I've officially updated the game to work with PHP 7. I am able to log into the system, view popups, etc. 
+The Bad News: There is a LOT of work to do. It's ugly, many things aren't working AT all. The database needs some serious reconfiguring. As someone that was not involved with this game initially, it's a LOT of reading through code and trying to figure out what the original author was trying to do and making it work properly with the new PHP/MySQL releases.
+
+I don't plan to release the updates to get it working on PHP 7 yet, but if you're interested in maybe getting this game back functional, please reach out to me and let's see what we can figure out!
+
+
+
 #The Fallen Immortals 
 You can see this site today at: http://fallen.jez-your.com/
 For now...... PHP 5.6 is slow, and I do not wish to continue supporting for it.
