@@ -8,7 +8,7 @@ I don't plan to release the updates to get it working on PHP 7 yet, but if you'r
 
 
 #The Fallen Immortals 
-You can see this site today at: http://fallen.jez-your.com/
+~~You can see this site today at: UNAVAILABLE
 For now...... PHP 5.6 is slow, and I do not wish to continue supporting for it.
 
 ##History
